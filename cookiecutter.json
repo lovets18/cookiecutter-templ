@@ -1,0 +1,8 @@
+{
+    "directory_name": "test1",
+    "file_name": "main",
+    "username": "user",
+    "train_dir":"train",
+    "inference_dir":"inference",
+    "opt":"None"
+}
